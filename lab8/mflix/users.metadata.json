@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"mflix.users"},{"v":2,"unique":true,"key":{"email":1.0},"name":"email_1","ns":"mflix.users"}],"uuid":"bb15cb68fe554bfb9dc53f553c71bc81"}
